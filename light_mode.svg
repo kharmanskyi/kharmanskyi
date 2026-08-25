@@ -7,10 +7,13 @@
   <text x="64" y="198" font-family="Georgia,'Times New Roman',serif" font-size="72" fill="#211F1B">Pavlo Kharmanskyi</text>
   <text x="64" y="254" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="30" fill="#9E3122">Building for markets that don&#8217;t have a name yet.</text>
   <text x="64" y="298" font-family="ui-monospace,Menlo,monospace" font-size="15" letter-spacing="2" fill="#6A665C">ONLYMONSTER.AI &#183; OPEN STEPS &#183; CREATOR ECONOMY</text>
-  <polyline points="820,294 864,294 864,282 908,282 908,270 952,270 952,258 996,258 996,246 1040,246 1040,234 1084,234 1084,222 1128,222" fill="none" stroke="#9E3122" stroke-width="2.5" stroke-dasharray="400" stroke-dashoffset="0">
-    <animate attributeName="stroke-dashoffset" values="400;400;0" keyTimes="0;0.222;1" dur="1.8s" fill="freeze"/>
-  </polyline>
-  <circle cx="1128" cy="217" r="5" fill="#9E3122">
-    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.87;1" dur="2.3s" fill="freeze"/>
-  </circle>
+  <g>
+    <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.889;1" dur="9s" repeatCount="indefinite"/>
+    <polyline points="820,294 864,294 864,282 908,282 908,270 952,270 952,258 996,258 996,246 1040,246 1040,234 1084,234 1084,222 1128,222" fill="none" stroke="#9E3122" stroke-width="2.5" stroke-dasharray="400" stroke-dashoffset="0">
+      <animate attributeName="stroke-dashoffset" values="400;400;0;0" keyTimes="0;0.056;0.611;1" dur="9s" repeatCount="indefinite"/>
+    </polyline>
+    <circle cx="1128" cy="217" r="5" fill="#9E3122">
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.578;0.633;1" dur="9s" repeatCount="indefinite"/>
+    </circle>
+  </g>
 </svg>
