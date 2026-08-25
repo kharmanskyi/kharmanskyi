@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Pavlo Kharmanskyi, technology entrepreneur. Market-led builder: two decades, multiple exits. Building for markets that don't have a name yet.">
+  <style>
+    .f{opacity:0;animation:f .7s ease-out forwards}
+    .r{opacity:0;transform:translateY(10px);animation:r .8s cubic-bezier(.2,.7,.3,1) forwards}
+    .d1{animation-delay:.15s}.d2{animation-delay:.45s}.d3{animation-delay:.8s}.d4{animation-delay:1.1s}
+    .draw{stroke-dasharray:400;stroke-dashoffset:400;animation:d 1.2s ease-out 1.3s forwards}
+    .dot{opacity:0;animation:f .5s ease-out 2.4s forwards}
+    @keyframes f{to{opacity:1}}
+    @keyframes r{to{opacity:1;transform:none}}
+    @keyframes d{to{stroke-dashoffset:0}}
+    @media (prefers-reduced-motion:reduce){
+      .f,.r,.dot{animation:none;opacity:1;transform:none}
+      .draw{animation:none;stroke-dashoffset:0}
+    }
+  </style>
+  <rect width="1200" height="340" fill="#FBFAF7"/>
+  <rect class="f" x="24" y="24" width="1152" height="292" fill="none" stroke="#CFCABD" stroke-width="1.5"/>
+  <text class="f d1" x="64" y="88" font-family="ui-monospace,Menlo,monospace" font-size="17" letter-spacing="3" fill="#6A665C">MARKET-LED BUILDER</text>
+  <text class="f d1" x="1136" y="88" text-anchor="end" font-family="ui-monospace,Menlo,monospace" font-size="17" letter-spacing="2" fill="#9E3122">TWO DECADES &#183; MULTIPLE EXITS</text>
+  <line class="f d1" x1="64" y1="110" x2="1136" y2="110" stroke="#E1DDD3" stroke-width="1.5"/>
+  <text class="r d2" x="64" y="198" font-family="Georgia,'Times New Roman',serif" font-size="72" fill="#211F1B">Pavlo Kharmanskyi</text>
+  <text class="r d3" x="64" y="254" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="30" fill="#9E3122">Building for markets that don&#8217;t have a name yet.</text>
+  <text class="f d4" x="64" y="298" font-family="ui-monospace,Menlo,monospace" font-size="15" letter-spacing="2" fill="#6A665C">ONLYMONSTER.AI &#183; OPEN STEPS &#183; FINTECH INFRASTRUCTURE</text>
+  <polyline class="draw" points="820,294 864,294 864,282 908,282 908,270 952,270 952,258 996,258 996,246 1040,246 1040,234 1084,234 1084,222 1128,222" fill="none" stroke="#9E3122" stroke-width="2.5"/>
+  <circle class="dot" cx="1128" cy="217" r="5" fill="#9E3122"/>
+</svg>
