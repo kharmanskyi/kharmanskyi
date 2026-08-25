@@ -27,7 +27,6 @@ fintech, Web3 and the creator economy. Multiple ventures, acquisitions and exits
 - 🚀 Founder of **[OnlyMonster.ai](https://onlymonster.ai)** — one of the leading software providers for the creator economy, serving thousands of customers worldwide.
 - 📐 Author of **[Open Steps](https://opensteps.ai)** — my own method for building products with AI coding agents, written down and made installable.
 - 🏦 Currently building fintech infrastructure for digital businesses: verification, payouts and the movement of funds across payment platforms.
-- ⚡ Started at 13, selling newspapers on roller skates. First exits by 25.
 
 ## Open Steps — plain-language skills for Claude Code
 
