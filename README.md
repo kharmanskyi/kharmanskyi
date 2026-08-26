@@ -24,13 +24,13 @@ fintech, Web3 and the creator economy. Multiple ventures, acquisitions and exits
 ## About
 
 - 🧭 **Market-led builder.** I look for where demand is forming, get close to the community, and build the product around what it actually needs.
-- 🚀 Founder of **[OnlyMonster.ai](https://onlymonster.ai)** — one of the leading software providers for the creator economy, serving thousands of customers worldwide.
-- 📐 Author of **[Open Steps](https://opensteps.ai)** — my own method for building products with AI coding agents, written down and made installable.
+- 🚀 Founder of **[OnlyMonster.ai](https://onlymonster.ai)**, a B2B SaaS CreatorOps Platform for the professional creator economy, serving thousands of customers worldwide.
+- 📐 Author of **[Open Steps](https://opensteps.ai)**: my own method for building products with AI coding agents, written down and made installable.
 - 🏦 Currently building fintech infrastructure for digital businesses: verification, payouts and the movement of funds across payment platforms.
 
-## Open Steps — plain-language skills for Claude Code
+## Open Steps: plain-language skills for coding agents
 
-A free pack of skills for coding agents — my product-building method, written down. It turns agent jargon into plain language: honest reports, straight verdicts, steps you can follow. For the person running the build, not reading the code.
+A free pack of skills for coding agents, my product-building method written down. It turns agent jargon into plain language: honest reports, straight verdicts, steps you can follow. For the person running the build, not reading the code.
 
 ```bash
 git clone https://github.com/kharmanskyi/open-steps.git
