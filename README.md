@@ -16,7 +16,7 @@ fintech, Web3 and the creator economy. Multiple ventures, acquisitions and exits
 <p align="center">
   <a href="https://kharmanskyi.com"><img src="https://img.shields.io/badge/Website-kharmanskyi.com-9E3122?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>&nbsp;
   <a href="https://www.linkedin.com/in/kharmanskyi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn"></a>&nbsp;
-  <a href="https://www.instagram.com/harmansky"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.instagram.com/pavlo.kharmanskyi"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 ---
